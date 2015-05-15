@@ -47,9 +47,12 @@
             <li>Saturday: 7am-11am</li>
         </ul>
     </div>
-    <form action='http://formspree.io/your@email.com'>
-        <input type='submit'>
-    </form>
+    <form action="//formspree.io/your@email.com"
+      method="POST">
+    <input type="text"  value="name" name="name">
+    <input type="email" value="email"  name="_replyto">
+    <input type="submit" value="Send">
+</form>
 </body>
 
 </html>
