@@ -1,0 +1,144 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	padding: 0;
+	vertical-align: baseline;
+
+}
+.facebook{
+	width: 81px;
+}
+.youtube {
+	display: inline-block;
+}
+
+#social_media {
+	float:right;
+	display: inline-block;
+}
+
+.slideshow{
+	text-align: center;
+}
+
+header{
+	height: 100px;
+}
+
+body{
+	background-color: #F2EFEB;
+}
+
+h1{
+	float: left;
+	font-family: Courier New;
+	font-size: 55px;
+	padding-bottom: 10px;
+	font-weight: normal;
+	height: 70px;
+	margin: 0;
+}
+
+nav{
+	text-decoration: none;
+	font-size: 15px;
+	text-align: center;
+	word-spacing: 50px;
+	font-family: Verdana;
+	padding-bottom: 10px;
+	border-top-style: solid;
+	border-color: #9B2221;
+	border-top-width: 3px;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+h2{
+	font-family: Verdana;
+	font-size: 30px;
+	font-weight: normal;
+
+}
+
+h3{
+	font-family: verdana;
+	font-size: 15px;
+}
+
+p{
+	font-family: Verdana;
+	font-size: 18px;
+	text-align: right;
+}
+
+.awards ul{
+	list-style-type: disc;
+	padding: 1em;
+}
+
+.awards ul li{
+	font-family: verdana;
+	font-size: 13px;
+	list-style-type: square;
+}
+
+.personal ul{
+	list-style-type: disc;
+	padding: 1em;
+}
+
+.personal ul li{
+	font-family: verdana;
+	font-size: 13px;
+}
+
+.coach ul{
+	list-style-type: disc;
+	padding: 1em;
+}
+
+.coach ul li{
+	font-family: verdana;
+	font-size: 13px;
+}
+
+.professional ul{
+	list-style-type: disc;
+	padding: 1em;
+}
+
+.professional ul li{
+	font-family: verdana;
+	font-size: 13px;
+}
+
+.education ul {
+	list-style-type: disc;
+	padding: 1em;
+}
+
+.education ul li{
+	font-family: verdana;
+	font-size: 13px;
+}
+
+.az_tourn{
+	text-align: center;
+}
+
+.win{
+	text-align: center;
+}
